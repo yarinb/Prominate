@@ -1,0 +1,25 @@
+{
+  "slug": "Prominate",
+  "name": "Prominate",
+  "version": "1.0.0",
+  "license": "proprietary",
+  "brand": "PR",
+  "author": "Me",
+  "authorEmail": "",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "NumericRepetitor",
+      "name": "NumericRepetitor",
+      "description": "NR",
+      "tags": [
+        "Sequencer"
+      ]
+    }
+  ]
+}

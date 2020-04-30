@@ -1,11 +1,11 @@
 {
-  "slug": "Prominate",
-  "name": "Prominate",
+  "slug": "YB",
+  "name": "YB",
   "version": "1.0.0",
   "license": "proprietary",
-  "brand": "PR",
+  "brand": "YB",
   "author": "Me",
-  "authorEmail": "",
+  "authorEmail": "yarin@bena.do",
   "authorUrl": "",
   "pluginUrl": "",
   "manualUrl": "",
@@ -14,9 +14,9 @@
   "changelogUrl": "",
   "modules": [
     {
-      "slug": "NumericRepetitor",
-      "name": "NumericRepetitor",
-      "description": "NR",
+      "slug": "FactoRhythm",
+      "name": "FactoRhythm",
+      "description": "This module generates rhythms based on multiplication of binary numbers.",
       "tags": [
         "Sequencer"
       ]
